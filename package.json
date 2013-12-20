@@ -1,0 +1,27 @@
+{
+  "name": "math-gen",
+  "version": "0.0.1",
+  "description": "This is a library for generating semi-random math problems",
+  "main": "math-gen.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevekane/math-gen.git"
+  },
+  "keywords": [
+    "math",
+    "generate",
+    "mathjs",
+    "problems"
+  ],
+  "author": "Steve Kane",
+  "license": "MIT",
+  "dependencies": {
+    "power-throw": "0.0.1"
+  },
+  "devDependencies": {
+    "tape": "~2.3.2"
+  }
+}
